@@ -21,10 +21,10 @@ const Section = () => {
                     </div>
                 </div> 
             </div>
-            <div className='md:flex flex-row-reverse justify-around items-center space-y-10 md:space-y-0'>
+            <div className='flex flex-col md:flex-row-reverse items-end md:items-center justify-around space-y-10 md:space-y-0'>
                 <img className='object-cover bg-cover bg-center w-[80%] md:w-[50%]'
                 src="https://cezugwu.github.io/instruments/4.jpg" alt="" />
-                <div className='flex items-end flex-col md:block'>
+                <div className='flex flex-col'>
                     In the summer of 2020, we <br />
                     reported our representation data <br />
                     and committed to doing so <br />
