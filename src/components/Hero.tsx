@@ -17,7 +17,7 @@ const Hero = () => {
             </div>
             <div className='space-y-20'>
                 <img className='object-cover bg-cover bg-center w-[90%] mx-auto'
-                src="../2.jpg" alt="" />
+                src="https://cezugwu.github.io/instruments/2.jpg" alt="" />
                 <div className='text-center font-medium text-3xl'>
                 We enrich human lives through <br />
                 the thoughtfull application of <br />

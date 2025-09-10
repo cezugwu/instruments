@@ -7,7 +7,7 @@ const Section = () => {
         <div className='pt-20 space-y-20'>
             <div className='md:flex justify-around items-center space-y-10 md:space-y-0'>
                 <img className='object-cover bg-cover bg-center w-[80%] md:w-[50%]'
-                src="../3.jpg" alt="" />
+                src="https://cezugwu.github.io/instruments/3.jpg" alt="" />
                 <div className=''>
                     In the summer of 2020, we <br />
                     reported our representation data <br />
@@ -23,7 +23,7 @@ const Section = () => {
             </div>
             <div className='md:flex flex-row-reverse justify-around items-center space-y-10 md:space-y-0'>
                 <img className='object-cover bg-cover bg-center w-[80%] md:w-[50%]'
-                src="../4.jpg" alt="" />
+                src="https://cezugwu.github.io/instruments/4.jpg" alt="" />
                 <div className='flex items-end flex-col md:block'>
                     In the summer of 2020, we <br />
                     reported our representation data <br />
@@ -39,7 +39,7 @@ const Section = () => {
             </div>
             <div className='md:flex justify-around items-center space-y-10 md:space-y-0'>
                 <img className='object-cover bg-cover bg-center w-[80%] md:w-[50%]'
-                src="../5.jpg" alt="" />
+                src="https://cezugwu.github.io/instruments/5.jpg" alt="" />
                 <div className=''>
                     In the summer of 2020, we <br />
                     reported our representation data <br />
@@ -68,7 +68,7 @@ const Section = () => {
 
             <div className='grid grid-cols-1 md:grid-cols-2 space-y-8'>
                 <div className='w-[80%] mx-auto space-y-4'>
-                    <img className='' src="../6.jpg" alt="" />
+                    <img className='' src="https://cezugwu.github.io/instruments/6.jpg" alt="" />
                     <div className='text-2xl font-medium'>Levi's</div>
                     <div className='text-[0.8em]'>
                         we partnered with levi's, an icon of American industry and <br />
@@ -77,7 +77,7 @@ const Section = () => {
                     </div>
                 </div>
                 <div className='w-[80%] mx-auto space-y-4'>
-                    <img className='' src="../2.jpg" alt="" />
+                    <img className='' src="https://cezugwu.github.io/instruments/2.jpg" alt="" />
                     <div className='text-2xl font-medium'>Dropbox Brand Campaign</div>
                     <div className='text-[0.8em]'>
                         Dropbox is on a path to becoming a multi-product company. <br />
